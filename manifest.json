@@ -1,0 +1,27 @@
+{
+  "name": "حلويات جار القمر",
+  "short_name": "جار القمر",
+  "description": "حلويات عربية أصيلة - سرمدا، إدلب",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FBF7EF",
+  "theme_color": "#1C1712",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/Q7kznq63/1789246025749.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/Q7kznq63/1789246025749.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
